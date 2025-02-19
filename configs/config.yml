@@ -1,0 +1,11 @@
+bot:
+  keyApi: "8163652590:AAGNFNY9_crngrpkQRGVZTemBmiY35v56Og"
+
+db:
+  user: "root"
+  host: "127.0.0.1"
+  port: "3306"
+  dbName: "shcedualy"
+  sslMode: "disable"
+user:
+  n2: 6559419307
