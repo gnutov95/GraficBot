@@ -3,9 +3,9 @@ bot:
 
 db:
   user: "root"
-  host: "127.0.0.1"
+  host: "localhost"
   port: "3306"
-  dbName: "shcedualy"
+  dbName: "bot_mysql"
   sslMode: "disable"
 user:
   n2: 6559419307
