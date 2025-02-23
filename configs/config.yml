@@ -1,11 +1,11 @@
 bot:
-  keyApi: "8163652590:AAGNFNY9_crngrpkQRGVZTemBmiY35v56Og"
+  keyApi: "YOUR_TOKEN"
 
 db:
-  user: "root"
-  host: "localhost"
-  port: "3306"
-  dbName: "bot_mysql"
+  user: "USERNAME_DB"
+  host: "YOUR_HOST_DB"
+  port: "YOUR_PORT_DB"
+  dbName: "YOUR_NAME_DB"
   sslMode: "disable"
 user:
-  n2: 6559419307
+  n2: YOUR_ID_TELEGRAM
