@@ -13,7 +13,7 @@
 
 1. **Клонируйте репозиторий**:
     ```bash
-    git clone https://github.com/yourusername/shift-scheduler-bot.git
+    git clone https://github.com/gnutov95/GraficBot.git
     ```
 
 2. **Установите Go**:
